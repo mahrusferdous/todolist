@@ -1,2 +1,2 @@
 # todolist
-url: https://stormy-headland-75250.herokuapp.com/
+url: https://secure-woodland-62502.herokuapp.com/
